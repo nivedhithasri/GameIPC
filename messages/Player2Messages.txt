@@ -1,0 +1,24 @@
+************************************************
+                 PLAYER 2 Chat
+************************************************
+PID: 74843
+Sending to PLAYER1  :        Hello Player 1
+Message from PLAYER1:        Hello Player 1*
+Sending to PLAYER1  :        Hello Player 12
+Message from PLAYER1:        Hello Player 12*
+Sending to PLAYER1  :        Hello Player 123
+Message from PLAYER1:        Hello Player 123*
+Sending to PLAYER1  :        Hello Player 1234
+Message from PLAYER1:        Hello Player 1234*
+Sending to PLAYER1  :        Hello Player 12345
+Message from PLAYER1:        Hello Player 12345*
+Sending to PLAYER1  :        Hello Player 123456
+Message from PLAYER1:        Hello Player 123456*
+Sending to PLAYER1  :        Hello Player 1234567
+Message from PLAYER1:        Hello Player 1234567*
+Sending to PLAYER1  :        Hello Player 12345678
+Message from PLAYER1:        Hello Player 12345678*
+Sending to PLAYER1  :        Hello Player 123456789
+Message from PLAYER1:        Hello Player 123456789*
+Sending to PLAYER1  :        Hello Player 12345678910
+Message from PLAYER1:        Hello Player 12345678910*
